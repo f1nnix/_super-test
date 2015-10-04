@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filekeeper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://f1nnix@github.com/f1nnix/_super-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1nnix/_super-test/issues"
+  },
+  "homepage": "https://github.com/f1nnix/_super-test#readme",
+  "dependencies": {
+    "bluebird": "^2.10.2"
+  }
+}
